@@ -1,5 +1,5 @@
-
-:wq
-kkkjjkk,,fdgdfsgsdjsgfsdfgfgdgs
-
-lkl
+class Car
+  def make_noise
+    puts "brrom"
+  end
+end
